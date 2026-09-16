@@ -30,6 +30,7 @@ header {
 
 li {
     list-style-type: none;
+    font-weight: bold;
 }
 
 a:link {
@@ -77,6 +78,7 @@ main {
 
 #enunciado {
     margin-top: 20px;
+    font-weight: bold;
 }
 
 #servicos {
@@ -110,7 +112,6 @@ main {
 
 .servico p {
     margin-top: 10px;
-    font-weight: bold;
     text-align: justify;
 }
 
